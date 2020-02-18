@@ -1,0 +1,1 @@
+curl https://assets.blockstream.info/ --data-raw '{"asset_id":"04b4be6620f7b86d0952cd2b8788d74d7498cd7d008b2fa5540f536ea0e0a23d","contract":{"entity":{"domain":"secondbase-issuance.github.io"},"issuer_pubkey":"03cf8fd6d612f322c5e833297f1d438543ff1f084b18ed8571ffa2a3dd209f7370","name":"SPXT TOKEN from SecondBase","precision":0,"ticker":"SPXT","version":0}}'

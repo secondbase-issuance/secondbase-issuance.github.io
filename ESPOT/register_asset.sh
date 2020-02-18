@@ -1,0 +1,1 @@
+curl https://assets.blockstream.info/ --data-raw '{"asset_id":"354de06fb4cd49a35265451d23621fac71442c759748c1a668d2da20799c1d56","contract":{"entity":{"domain":"secondbase-issuance.github.io"},"issuer_pubkey":"0340546c13f37baf4092c7645dfa0122ed744902157be975c3ce6c8c7a0f537b8a","name":"ESPOT TOKEN from SecondBase","precision":0,"ticker":"ESPOT","version":0}}'
