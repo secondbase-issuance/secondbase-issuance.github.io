@@ -1,0 +1,1 @@
+curl https://assets.blockstream.info/ --data-raw '{"asset_id":"9868faf3de8deaa7a6436d570ec7962b2d594dd9188558d0cd7eeb12dce0aeb1","contract":{"entity":{"domain":"secondbase-issuance.github.io"},"issuer_pubkey":"03098ce199a81428853f991d5ab60ef5a1fa1c09e1d92acc8c322bd4ec69aafd60","name":"NDXT TOKEN","precision":0,"ticker":"NDXT","version":0}}'
